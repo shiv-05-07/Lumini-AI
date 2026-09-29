@@ -329,8 +329,9 @@ TETRA031/
 
 Thanks to the contributors who built and maintained this project:
 
-- **Shivam** ([@Shivam](https://github.com/))
-- **Mayur Suthar** ([@MayurSuthar](https://github.com/))
+- **Shivam** ([@shiv-05-07](https://github.com/))
+- **Apurva** ([@apurva201207-len](https://github.com/apurva201207-len))
+- **Manan** ([@manangandhi792-coder](https://github.com/manangandhi792-coder))
 
 ---
 
